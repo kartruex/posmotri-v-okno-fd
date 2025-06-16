@@ -189,7 +189,7 @@ html {
 }
 
 .search-form__fieldset {
-  border: 0;
+  border: none;
 }
 
 .search-form__fieldset-title {
