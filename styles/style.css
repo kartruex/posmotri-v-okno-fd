@@ -63,7 +63,7 @@ html {
   margin-top: 26px;
   height: 298px;
   min-width: 390px;
-  overflow-y: scroll;
+  overflow-y: auto;
   overflow-x: hidden;
   position: relative;
 }
